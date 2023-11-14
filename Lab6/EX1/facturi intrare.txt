@@ -1,0 +1,24 @@
+[InfoPachet]
+AnLucru=2023
+LunaLucru=10
+TipDocument=FACTURA INTRARE
+TotalFacturi=1
+
+[Factura_1]
+SerieDoc=F
+NrDoc=22058714
+Data=05.09.2023
+NrNir=548
+CodFurnizor=1
+TVAINCASARE=N
+Moneda=Lei
+Scadenta=05.09.2023
+TotalArticole=1
+TaxareInversa=N
+[DVI_1]
+NrDoc=57
+Data=05.02.2023
+Curs=4.58
+[Items_1]
+Item_1=2;Lei;1.00;584;;0;650
+Item_1_TVA=111
