@@ -24,7 +24,7 @@ Clear and concise comments are provided throughout the code to explain complex s
 Docstrings
 ----------
 
-Docstrings are used to describe the purpose, parameters, and return types of functions and classes. This documentation style adheres to PEP conventions, aiding developers in understanding the usage and behavior of each component.
+Docstrings are used to describe the purpose of functions and classes. This documentation style adheres to PEP conventions, aiding developers in understanding the usage and behavior of each component.
 
 Key Classes and Methods
 ------------------------
